@@ -55,7 +55,7 @@
     ],
     "beam_to_lidar_transform": [ 1, 0, 0, 15.805999755859375, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 ],
     "lidar_origin_to_beam_origin_mm": 15.8059998
-  }
+  },
   "lidar_intrinsics":{
     "lidar_to_sensor_transform": [-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 38.195, 0, 0, 0, 1]
   },
